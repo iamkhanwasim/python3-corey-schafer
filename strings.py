@@ -65,4 +65,4 @@ print(dir(message)) # when passed a variable, dir methods shows all the attribut
 
 # Help method
 # print(help(str)) # Gives more information about the type
-print(help(str.lower)) # Adding a method name can give specific details of the method associated with the type
+# print(help(str.lower)) # Adding a method name can give specific details of the method associated with the type
